@@ -13,10 +13,10 @@
     }
   ],
   "env": {
-    "TELEGRAM_BOT_TOKEN": "@telegram_bot_token",
-    "GEMINI_API_KEY": "@gemini_api_key",
-    "MAIN_GROUP_CHAT_ID": "@main_group_chat_id",
-    "WEBHOOK_URL": "@webhook_url"
+    "TELEGRAM_BOT_TOKEN": "@TELEGRAM_BOT_TOKEN",
+    "GEMINI_API_KEY": "@GEMINI_API_KEY",
+    "MAIN_GROUP_CHAT_ID": "@MAIN_GROUP_CHAT_ID",
+    "WEBHOOK_URL": "@WEBHOOK_URL"
   }
 }
 
