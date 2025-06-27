@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configuration ---
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_BOT_TOKEN = "8112033822:AAH2X-sSkf_djHKIzpyqU__Jlh-84gYnAJA"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 DB_NAME = "offense_log.db"
