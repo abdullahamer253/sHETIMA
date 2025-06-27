@@ -1,0 +1,16 @@
+2025-06-26 23:39:05,251 - __main__ - INFO - Gemini AI configured successfully.
+2025-06-26 23:39:05,252 - __main__ - INFO - Loaded 1012 swear words from extracted_swear_words.txt (for AI reference).
+2025-06-26 23:39:05,254 - __main__ - INFO - Database offense_log.db initialized/checked.
+ * Serving Flask app 'app'
+ * Debug mode: on
+2025-06-26 23:39:05,352 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://169.254.0.21:5001
+2025-06-26 23:39:05,352 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-26 23:39:05,353 - werkzeug - INFO -  * Restarting with stat
+2025-06-26 23:39:05,891 - __main__ - INFO - Gemini AI configured successfully.
+2025-06-26 23:39:05,893 - __main__ - INFO - Loaded 1012 swear words from extracted_swear_words.txt (for AI reference).
+2025-06-26 23:39:05,894 - __main__ - INFO - Database offense_log.db initialized/checked.
+2025-06-26 23:39:05,992 - werkzeug - WARNING -  * Debugger is active!
+2025-06-26 23:39:05,992 - werkzeug - INFO -  * Debugger PIN: 501-831-139
