@@ -361,20 +361,12 @@ def create_bot_application():
     bot_application = application
     return application
 
-# --- Main Function ---
-def main():
-    """Initialize the application."""
-    init_db()
-    create_bot_application()
-    
-    # For local development
-    if __name__ == "__main__":
-        port = int(os.environ.get('PORT', 5000))
-        app.run(host='0.0.0.0', port=port, debug=True)
+init_db()
+create_bot_application()
 
 if __name__ == "__main__":
-    main()
-
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port, debug=True)
 # For Vercel deployment
 app = app
 
